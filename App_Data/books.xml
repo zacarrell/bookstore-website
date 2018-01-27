@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Books>
+  <Book>
+    <Title>Crimsonwall</Title>
+    <Author>Jacques, Brian Not</Author>
+    <Illustrator>
+    </Illustrator>
+    <Genre>Children's</Genre>
+    <Price>10.99</Price>
+    <Year>1986</Year>
+    <ISBN>9021084896123</ISBN>
+  </Book>
+  <Book>
+    <Title>Spooktacular Halloween</Title>
+    <Author>Guy, Some</Author>
+    <Illustrator>Guy, Other</Illustrator>
+    <Genre>Children's</Genre>
+    <Price>12.99</Price>
+    <Year>2011</Year>
+    <ISBN>9012345678901</ISBN>
+  </Book>
+  <Book>
+    <Title>Identifying Ants: The Complete Guide</Title>
+    <Author>Booring, J. P.</Author>
+    <Illustrator>
+    </Illustrator>
+    <Genre>How-To</Genre>
+    <Price>24.99</Price>
+    <Year>2005</Year>
+    <ISBN>9726584816124</ISBN>
+  </Book>
+  <Book>
+    <Title>The King James Bible (Now With Less Typos)</Title>
+    <Author>God? IDK</Author>
+    <Illustrator>
+    </Illustrator>
+    <Genre>Religion</Genre>
+    <Price>29.99</Price>
+    <Year>2013</Year>
+    <ISBN>9465456815268</ISBN>
+  </Book>
+</Books>
