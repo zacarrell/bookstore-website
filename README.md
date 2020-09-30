@@ -1,4 +1,4 @@
-# bookstore-website
+# Welcome to Bookstore-website
 Final project for my ASP .NET course
 
 A bookstore simulation that uses session variables and XML databases.  
